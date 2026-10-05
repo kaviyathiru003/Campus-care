@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 120" fill="none" stroke="#2563eb" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Spire / Antenna -->
+  <line x1="42" y1="6" x2="42" y2="16" stroke="#2563eb" stroke-width="2.5" />
+  <circle cx="42" cy="5" r="2" fill="#2563eb" />
+  
+  <!-- Main Curved Tall Glass Tower -->
+  <path d="M24 114 V 30 C 24 16, 60 16, 60 30 V 114 Z" stroke="#1d4ed8" stroke-width="3.5" fill="#eff6ff" />
+  
+  <!-- Vertical Glass Mullion Lines -->
+  <line x1="33" y1="23" x2="33" y2="114" stroke="#3b82f6" stroke-width="1.8" stroke-dasharray="8 3" />
+  <line x1="42" y1="18" x2="42" y2="114" stroke="#2563eb" stroke-width="2.2" />
+  <line x1="51" y1="23" x2="51" y2="114" stroke="#3b82f6" stroke-width="1.8" stroke-dasharray="8 3" />
+  
+  <!-- Horizontal floor bands -->
+  <line x1="24" y1="42" x2="60" y2="42" stroke="#60a5fa" stroke-width="1.2" />
+  <line x1="24" y1="62" x2="60" y2="62" stroke="#60a5fa" stroke-width="1.2" />
+  <line x1="24" y1="82" x2="60" y2="82" stroke="#60a5fa" stroke-width="1.2" />
+  <line x1="24" y1="100" x2="60" y2="100" stroke="#60a5fa" stroke-width="1.2" />
+
+  <!-- Attached Side Academic Wing -->
+  <path d="M60 52 H 84 V 114 H 60" stroke="#1e40af" stroke-width="3" fill="#f0fdf4" />
+  <line x1="72" y1="52" x2="72" y2="114" stroke="#3b82f6" stroke-width="1.5" />
+  <line x1="60" y1="72" x2="84" y2="72" stroke="#93c5fd" stroke-width="1.2" />
+  <line x1="60" y1="92" x2="84" y2="92" stroke="#93c5fd" stroke-width="1.2" />
+
+  <!-- Left Low Annex / Entrance Podium -->
+  <path d="M12 82 H 24 V 114 H 12 Z" stroke="#1e40af" stroke-width="2.5" fill="#eff6ff" />
+  <line x1="12" y1="98" x2="24" y2="98" stroke="#93c5fd" stroke-width="1.2" />
+
+  <!-- Ground base line -->
+  <line x1="6" y1="114" x2="94" y2="114" stroke="#1e3a8a" stroke-width="4" />
+</svg>

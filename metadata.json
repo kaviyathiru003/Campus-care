@@ -1,0 +1,6 @@
+{
+  "name": "VELS Campus Care",
+  "description": "Campus Maintenance Reporting System - A Cleaner Campus. A Better Tomorrow.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
